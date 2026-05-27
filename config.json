@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggercalculate",
+        "uuid": 17132040,
+        "checksum": "u573i"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
